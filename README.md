@@ -13,8 +13,8 @@
 
 #### Step 2: Data Clean up
 
-02.data_clean_up.ipynb
+- 02.data_clean_up.ipynb
 
 #### Step 3: Linear Regression Analysis
 
-03.linear_regression_analysis.ipynb
+- 03.linear_regression_analysis.ipynb
