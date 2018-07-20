@@ -1,6 +1,6 @@
 # Ratemyprofessors.com
 
-###Instructions of all files:
+#### Instructions of all files:
 
 <b>Slides and Summary:</b> Rate_my_professors_dot_com_Xu Zhou.pdf
 
