@@ -1,6 +1,9 @@
-# ratemyprofessors.com
+# Ratemyprofessors.com
 
-Instuctions of steps and all files:
+Instructions of all files:
+
+Slides and Summary: Rate_my_professors_dot_com_Xu Zhou.pdf
+
 
 #### Step 1: Website scraping
 
